@@ -1,22 +1,22 @@
 <h1 align="center">Hello 👋, I'm Prathamesh Polsane👋</h1>
-<h3 align="center">I'm a Student, MERN Developer, and Explorer from India !!</h3>
+<h3 align="center">I'm a EXTC Engineer, MERN Developer, Wed Designer and Explorer from India !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshpolsane&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshpolsane" /> </p>
 <img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="prathameshpolsane" />
 
-- 🌱 I’m currently learning **new Web Technologies.**
+- 🌱 I’m currently learning **TypeScript and GraphQL**
 
-- 👯 I’m looking to collaborate on **Frontend JS & React Projects.**
+- 👯 I’m looking to collaborate on **MERN projects**
 
-- 🤝 I’m looking for help with **Backend Development & Flutter.**
+- 🤝 I’m looking for help with **Backend Development**
 
 - 👨‍💻 My portfolio at [https://polsaneprathamesh.github.io/portfolio/](https://polsaneprathamesh.github.io/portfolio/)
 
-- 💬 Ask me about **CSS , JS , React**
+- 💬 Ask me anything about **CSS , JS , React**
 
 - 📫 How to reach me **polsaneprathamesh@gmail.com**
 
-- ⚡ Fun fact **I love to sing and play chess ♟️**
+- ⚡ Fun fact **I love to read books , sing and play chess ♟️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
