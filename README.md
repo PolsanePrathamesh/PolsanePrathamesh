@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 👨‍💻 My portfolio at [https://polsaneprathamesh.github.io/portfolio/](https://polsaneprathamesh.github.io/portfolio/)
+- 👨‍💻 My portfolio at [[https://polsaneprathamesh.github.io/portfolio/](https://prathameshpolsane.netlify.app/)]
   
 - 📝 My blogs at [https://medium.com/@prathameshpolsane](https://medium.com/@prathameshpolsane)
 
