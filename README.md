@@ -2,7 +2,7 @@
 <h3 align="center">I'm a EXTC Engineer, MERN Developer, Wed Designer and Explorer from India !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshpolsane&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshpolsane" /> </p>
-<img align="right" width="400" src="https://ibb.co/4wH051ZC" alt="prathameshpolsane image" />
+
 
 - 🌱 I’m currently learning **AI/ML**
 
